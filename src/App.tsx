@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import ResponsiveAppBar from './components/Navbar';
 import Home from './Pages/Home';
