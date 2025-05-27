@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12.04">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Corbel, Corbel;
+        font-size: 1.41px;
+        letter-spacing: .28em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-2" points="7.31 9.81 0 9.82 5.83 0 11.64 9.83 8.97 9.82 5.85 4.49 4.14 7.77 6.13 7.76 7.31 9.81"/>
+    <polygon class="cls-2" points="16 9.85 13.34 9.82 10.24 4.5 11.46 2.14 16 9.85"/>
+  </g>
+  <text class="cls-1" transform="translate(.97 11.7)"><tspan x="0" y="0">ALAN MOREIRA</tspan></text>
+</svg>
