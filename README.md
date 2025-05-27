@@ -5,8 +5,7 @@ This project implements a responsive navigation menu for a React web application
 
 ---
 
-## Live Demo / GitHub  
-Upload your project to GitHub and include the link here:  
+## GitHub  
 **GitHub Repository:** [https://github.com/alanrmoreira/webdev-assignment1](https://github.com/alanrmoreira/webdev-assignment1)
 
 ---
